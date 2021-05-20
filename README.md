@@ -1,4 +1,4 @@
-# Python Project Template 
+# Simple Azure Utils
 A template for starting a new project in python. This project contains basic infrastructure for testing and CI/CD with github actions.
 
 ## Installing Requirements
